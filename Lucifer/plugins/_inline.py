@@ -90,8 +90,8 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
             but += [[custom.Button.inline("Iɴʟɪɴᴇ", data="linline")]]
             but += [
                 [
-                    Button.url("🔰 Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ »»", "t.me/Lucifer_support_group"),
-                    Button.url("🔰 Uᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", "t.me/LuciferXupdates"),
+                    Button.url("🔰 Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ »»", "https://t.me/DestroyerXSupport"),
+                    Button.url("🔰 Uᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", "https://t.me/DestroyerXSupport"),
                 ]
             ]
             result = builder.photo(
