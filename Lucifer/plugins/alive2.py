@@ -49,9 +49,7 @@ async def hmm(yes):
     pm_caption += f"{luciferemoji} Aʙᴏᴜᴛ ᴍʏ sʏsᴛᴇᴍ ✗\n\n"
     pm_caption += f"{luciferemoji} **𝓓ęʂȶ𝓻𝖔Ɏę𝓻 乂 𝙑𝙀𝙍𝙎𝙄𝙊𝙉**: `{luciferver}`\n"
     pm_caption += f"{luciferemoji} **𝙏𝙀𝙇𝙀𝙏𝙃𝙊𝙉 𝙑𝙀𝙍𝙎𝙄𝙊𝙉** ☞ {version.__version__}\n"
-    pm_caption += (
-        f"{luciferemoji} **𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝘾𝙃𝘼𝙉𝙉𝙀𝙇** ☞ [ᴊᴏɪɴ](https://t.me/Destroyer_x_Userbot)\n"
-    )
+    pm_caption += f"{luciferemoji} **𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝘾𝙃𝘼𝙉𝙉𝙀𝙇** ☞ [ᴊᴏɪɴ](https://t.me/Destroyer_x_Userbot)\n"
     pm_caption += f"{luciferemoji} **𝙇𝙄𝘾𝙀𝙉𝙎𝙀**  ☞ [𝜯ęąᵯ 𝓓ęʂȶ𝓻𝖔Ɏę𝓻 𝓤ɮ](https://github.com/callmevp/Destroyer-X)\n"
     pm_caption += f"{luciferemoji} **𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏 𝘽𝙔** ☞ [𝓓ęʂȶ𝓻𝖔Ɏę𝓻 𝓤ɮ](https://github.com/callmevp/Destroyer-X)\n\n"
     pm_caption += f"{luciferemoji} **𝓓ęʂȶ𝓻𝖔Ɏę𝓻 乂 𝙐𝙋𝙏𝙄𝙈𝙀** ☞ {uptime}\n\n"
