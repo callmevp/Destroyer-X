@@ -1,10 +1,10 @@
-<h2 align="center"><b>OwNeR <a href="https://telegram.dog/Murat_30_God ">『 Manjeet』and『MD NOOR』</a></b></h2>
-# Lucifer-X
+<h2 align="center"><b>OwNeR <a href="https://telegram.dog/CALL_ME_VP ">『 CALLMEVP』</a></b></h2>
+# 𝓓ęʂȶ𝓻𝖔Ɏę𝓻╸乂
 > Telethon based userbot (•~•)
-<h1 align="center">⚡Lucifer-X⚡</h1>
+<h1 align="center">⚡𝓓ęʂȶ𝓻𝖔Ɏę𝓻╸乂⚡</h1>
 
 
-[![Lucifer-X logo](https://telegra.ph/file/78bebb896c10ef6213066.jpg)](https://t.me/LuciferXsupport)
+[![𝓓ęʂȶ𝓻𝖔Ɏę𝓻╸乂 ไ𝖔𝙜𝖔](https://telegra.ph/file/c43617d076b99ba2a427a.jpg)](https://t.me/DestroyerXSupport)
 
 <h2 align="center">USERBOT</h2>
 
@@ -22,15 +22,15 @@
 
  <h1 align="center">💫String Session💫</h1>
 
- [![Run on Repl.it](https://repl.it/badge/github/kaal0408/Lucifer-X&theme=midnight-purple)](https://replit.com/@Lightyagami788/LUCIFER-REPL#main.py)
+ [![Run on Repl.it](https://repl.it/badge/github/callmevp/Destroyer-X&theme=midnight-purple)](https://replit.com/@callmevp/Destroyer-X)
 
 
 
 <h3 align="center"> ✨OFFICIAL SUPPORT✨</h3>
 
-<a href="https://t.me/LuciferXUpdates"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Destroyer_x_Userbot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/Lucifer_support_group"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DestroyerXSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
