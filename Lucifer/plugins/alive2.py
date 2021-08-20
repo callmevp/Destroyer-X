@@ -19,14 +19,14 @@ global fuk
 fuk = borg.uid
 edit_time = 5
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/33f7e8dc3bb38cbe25991.jpg"
+file1 = "https://telegra.ph/file/f5779fd32bcf19905b566.jpg"
 """ =======================CONSTANTS====================== """
 # ======CONSTANTS=========#
 CUSTOM_ALIVE = Var.CUSTOM_ALIVE if Var.CUSTOM_ALIVE else "ℓυcιғεя Ӽ ʊֆɛʀɮօȶ ɨֆ օռʟɨռɛ!"
 ALV_PIC = (
     Var.ALIVE_PIC
     if Var.ALIVE_PIC
-    else "https://telegra.ph/file/73373552e9217e010e853.jpg"
+    else "https://telegra.ph/file/12296572c85492409fbff.jpg"
 )
 luciferemoji = Var.CUSTOM_ALIVE_EMOJI if Var.CUSTOM_ALIVE_EMOJI else "**〢**"
 if Config.SUDO_USERS:
@@ -47,14 +47,14 @@ async def hmm(yes):
     pm_caption = f"{luciferemoji}**{CUSTOM_ALIVE}**\n\n"
     pm_caption += f"{luciferemoji}**Mʏ sʏsᴛᴇᴍ ɪs ᴘᴇʀғᴇᴄᴛʟʏ ʀᴜɴɴɪɢ**\n\n"
     pm_caption += f"{luciferemoji} Aʙᴏᴜᴛ ᴍʏ sʏsᴛᴇᴍ ✗\n\n"
-    pm_caption += f"{luciferemoji} **LUCIFER 𝙓 𝙑𝙀𝙍𝙎𝙄𝙊𝙉**: `{luciferver}`\n"
+    pm_caption += f"{luciferemoji} **𝓓ęʂȶ𝓻𝖔Ɏę𝓻 乂 𝙑𝙀𝙍𝙎𝙄𝙊𝙉**: `{luciferver}`\n"
     pm_caption += f"{luciferemoji} **𝙏𝙀𝙇𝙀𝙏𝙃𝙊𝙉 𝙑𝙀𝙍𝙎𝙄𝙊𝙉** ☞ {version.__version__}\n"
     pm_caption += (
-        f"{luciferemoji} **𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝘾𝙃𝘼𝙉𝙉𝙀𝙇** ☞ [ᴊᴏɪɴ](https://t.me/LuciferXUpdates)\n"
+        f"{luciferemoji} **𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝘾𝙃𝘼𝙉𝙉𝙀𝙇** ☞ [ᴊᴏɪɴ](https://t.me/Destroyer_x_Userbot)\n"
     )
-    pm_caption += f"{luciferemoji} **𝙇𝙄𝘾𝙀𝙉𝙎𝙀**  ☞ [TEAM LUCIFER 𝚄𝙱](https://github.com/kaal0408/Lucifer-X)\n"
-    pm_caption += f"{luciferemoji} **𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏 𝘽𝙔** ☞ [LUCIFER 𝚄𝙱](https://github.com/kaal0408/Lucifer-X)\n\n"
-    pm_caption += f"{luciferemoji} **LUCIFER 𝙐𝙋𝙏𝙄𝙈𝙀** ☞ {uptime}\n\n"
+    pm_caption += f"{luciferemoji} **𝙇𝙄𝘾𝙀𝙉𝙎𝙀**  ☞ [𝜯ęąᵯ 𝓓ęʂȶ𝓻𝖔Ɏę𝓻 𝓤ɮ](https://github.com/callmevp/Destroyer-X)\n"
+    pm_caption += f"{luciferemoji} **𝘾𝙊𝙋𝙔𝙍𝙄𝙂𝙃𝙏 𝘽𝙔** ☞ [𝓓ęʂȶ𝓻𝖔Ɏę𝓻 𝓤ɮ](https://github.com/callmevp/Destroyer-X)\n\n"
+    pm_caption += f"{luciferemoji} **𝓓ęʂȶ𝓻𝖔Ɏę𝓻 乂 𝙐𝙋𝙏𝙄𝙈𝙀** ☞ {uptime}\n\n"
     pm_caption += (
         f"{luciferemoji} **𝙈𝙔 𝙋𝙀𝙍𝙊 𝙈𝘼𝙎𝙏𝙀𝙍** ☞ [{DEFAULTUSER}](tg://user?id={fuk})\n"
     )
@@ -63,5 +63,5 @@ async def hmm(yes):
     )
 
 
-# This Alive is for Lucifer X modded from dc
+# This Alive is for Destroyer-X modded from dc
 # use with credits
